@@ -1,1 +1,3 @@
 This project is to track the inventory of your home.
+
+It will allow for determining location and items.
